@@ -1,0 +1,3 @@
+[submodule "themes/moments"]
+	path = themes/moments
+	url = git@github.com:FarseaSH/hugo-theme-moments.git
