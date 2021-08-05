@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://farseash.github.io/demo-hugo-theme-moments/"
 languageCode = "zh-Hans"
 theme = "moments"
 paginate = 10
