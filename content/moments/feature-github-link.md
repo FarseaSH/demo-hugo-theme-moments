@@ -1,5 +1,5 @@
 ---
-top: 0
+top: 
 # 名称
 name:
 avatar:

@@ -1,8 +1,8 @@
 ---
-top: 2
+top: 4
 # 名称
-name:
-avatar:
+name: Default User
+avatar: img/default_avatar.png
 
 # 发布时间
 date: 2021-08-01T11:33:28+08:00
