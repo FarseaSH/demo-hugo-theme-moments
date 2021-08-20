@@ -9,7 +9,7 @@ date: 2021-08-06T14:33:28+08:00
 
 # 给Moment添加标签
 tags:
- - wechat link
+ - bilibili link
  - feature
 
 # 附加信息类型1:单个图片
@@ -21,14 +21,12 @@ pic_set:
  - 
 
 # 附加信息类型3:链接
-link: https://mp.weixin.qq.com/s/k_cWMw0NYak_LGqGronfvg
+link: https://www.bilibili.com/video/BV1764y167Lp
 link_logo:
-link_text: How these universities rubbed hot spots during the Olympic Games
+link_text: 【何同学】我毕业了！！
 
 # 备注信息
-note: New feature
+note: 这是纯文字的moment
 ---
 <!-- 下面写文字 -->
-Another new feature! When you attach a link to a webpage, a corresponding logo would show up.
-
-Like articles from Wechat as below.
+新的功能：可以根据url生成相关的图标。

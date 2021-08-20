@@ -23,10 +23,10 @@ pic_set:
 # 附加信息类型3:链接
 link: https://www.bilibili.com/video/BV1764y167Lp
 link_logo:
-link_text: 【何同学】我毕业了！！
+link_text: <Mr. He> I graduated!
 
 # 备注信息
-note: 这是纯文字的moment
+note: Welcome Bilibili
 ---
 <!-- 下面写文字 -->
-新的功能：可以根据url生成相关的图标。
+Another new feature! When you attach a link to a webpage, a corresponding logo would show up.

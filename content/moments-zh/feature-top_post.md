@@ -14,7 +14,7 @@ date: 2021-08-11T12:06:17+08:00
 # 给Moment添加标签
 tags:
  - feature
- - top
+ - 置顶功能
 
 # 附加信息（选填1项或者不填写）
 # 附加信息类型1:单个图片
@@ -34,6 +34,7 @@ link_text:
 link_logo:
 
 # 备注信息
-note: New feature
+note:
 ---
-Another new feature! Now, you may stick one of your Moment to the top. Simply set the 'top' value in the font-matter to make your Moment showing at the top of your Moment lists. The topped Moment has a red bookmark at the top right corner. 
+现在Moment支持置顶功能了！只需设置每篇post的top值即可置顶Moment，置顶的Moment会有右上角书签标记。
+

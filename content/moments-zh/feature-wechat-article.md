@@ -23,12 +23,10 @@ pic_set:
 # 附加信息类型3:链接
 link: https://mp.weixin.qq.com/s/k_cWMw0NYak_LGqGronfvg
 link_logo:
-link_text: How these universities rubbed hot spots during the Olympic Games
+link_text: 奥运期间，这些高校如何蹭热点的
 
 # 备注信息
-note: New feature
+note: 这是纯文字的moment
 ---
 <!-- 下面写文字 -->
-Another new feature! When you attach a link to a webpage, a corresponding logo would show up.
-
-Like articles from Wechat as below.
+新的功能：可以根据url生成相关的图标。

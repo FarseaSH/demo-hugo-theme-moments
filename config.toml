@@ -6,8 +6,8 @@ paginatePath = '.'
 
 [params]
     title = "Moments Demo"
-    signature = "人生如逆旅，我亦是行人。"
+    signature = "The only journey is the one within."
     cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
 
-    name = "Moments 更新君"
+    name = "Moments Official"
     avatar = "icon.png"
