@@ -12,14 +12,6 @@ tags:
  - github link
  - feature
 
-# 附加信息类型1:单个图片
-pic:
-
-# 附加信息类型2:图片组
-pic_set:
- - 
- - 
-
 # 附加信息类型3:链接
 link: https://github.com/FarseaSH/hugo-theme-moments
 link_logo:

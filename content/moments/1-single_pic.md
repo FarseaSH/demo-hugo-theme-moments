@@ -9,15 +9,11 @@ date: 2021-08-04T23:57:46+08:00
 
 # 给Moment添加标签
 tags:
- - picture
+ - Picture
 
 # 附加信息类型1:单个图片
-pic: https://cdn.pixabay.com/photo/2016/03/09/11/57/grand-canyon-1246248_1280.jpg
-
-# 附加信息类型2:图片组
-pic_set:
- - 
- -
+pictures:
+ - https://cdn.pixabay.com/photo/2016/03/09/11/57/grand-canyon-1246248_1280.jpg
 
 # 附加信息类型3:链接
 link:
