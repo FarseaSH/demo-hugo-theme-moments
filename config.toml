@@ -11,3 +11,6 @@ paginatePath = '.'
 
     name = "Moments Official"
     avatar = "icon.png"
+
+    [params.features]
+        pangu = true
