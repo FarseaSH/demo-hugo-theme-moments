@@ -19,3 +19,5 @@ link_text:
 note: Bilibili 乾杯!
 ---
 新的功能：现在支持b站视频内嵌播放！
+
+特被感谢 [@哈喽沃德先生](https://mrhelloworld.com) 提供的建议与支持。
