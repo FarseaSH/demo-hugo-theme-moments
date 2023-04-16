@@ -2,7 +2,7 @@
 top: 3
 # 名称
 name: 瑟德
-avatar: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190822%2F14%2F1566456820-UokjFbWpuN.jpg&refer=http%3A%2F%2Fimage.biaobaiju.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630729842&t=560fc243f983753c1f4541a1d9c0d365
+avatar: https://s1.ax1x.com/2023/04/16/p99L9iR.png
 
 # 发布时间
 date: 2021-08-03T11:57:40+08:00
