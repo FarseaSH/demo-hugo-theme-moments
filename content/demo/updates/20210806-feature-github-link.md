@@ -26,7 +26,7 @@ link_logo:
 link_text: FarseaSH/hugo-theme-moments
 
 # 备注信息
-note: 这是纯文字的moment
+note: 
 ---
 
 GitHub是通过Git进行版本控制的软件源代码托管服务平台，由GitHub公司（曾称Logical Awesome）的开发者Chris Wanstrath、P. J. Hyett和汤姆·普雷斯顿·沃纳使用Ruby on Rails编写而成。（引用自Wikipedia）

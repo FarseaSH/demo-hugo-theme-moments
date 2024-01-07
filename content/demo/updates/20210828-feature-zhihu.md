@@ -1,5 +1,5 @@
 ---
-top: 1
+top:
 # 名称
 name:
 avatar:
@@ -17,6 +17,6 @@ link_logo:
 link_text: 支持短文发布的Hugo主题——Moments
 
 # 备注信息
-note: Moments支持知乎链接分享了！
+note: 
 ---
 新的功能：现在分享链接图标支持知乎平台！包括知乎问答以及知乎专栏文章。

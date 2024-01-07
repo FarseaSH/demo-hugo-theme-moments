@@ -4,6 +4,14 @@ theme = "moments"
 paginate = 10
 paginatePath = '.'
 
+[markup]
+    [markup.highlight]
+        codeFences = true
+        lineNos = true
+        lineNumbersInTable = false
+        style = "pastie"
+        tabWidth = 4
+
 [params]
     title = "Moments Demo"
     signature = "The only journey is the one within."
@@ -12,5 +20,11 @@ paginatePath = '.'
     name = "Moments Official"
     avatar = "icon.png"
 
+    infiniteScroll = false
+    
     [params.features]
         pangu = true
+
+    [params.experimental]
+        comment = false
+

@@ -1,5 +1,5 @@
 ---
-top: 1
+top:
 # 名称
 name:
 avatar:
@@ -11,7 +11,7 @@ tags:
  - Feature
  - Fancybox
 # 备注信息
-note: 感谢Fancybox支持
+note: 
 ---
 
 现在，Moments支持Fancybox，以支持更好的图片浏览体验，轻点任意图片试试吧！
