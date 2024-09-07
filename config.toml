@@ -17,8 +17,8 @@ paginatePath = '.'
     signature = "The only journey is the one within."
     cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
 
-    name = "Moments Official"
-    avatar = "icon.png"
+    name = "Moments 主题"
+    avatar = "moment-avatar.png"
 
     infiniteScroll = false
     
