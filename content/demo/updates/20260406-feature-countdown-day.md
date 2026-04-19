@@ -35,4 +35,12 @@ note: Moments 新功能
 
 新的功能：Moments 支持倒计时/纪念日功能。
 
-{{< countdown-day date="2026-04-06" useViewDate=true title="倒数日feature发布" >}}
+在正文中插入如下block
+
+```markdown
+{{</* countdown-day date="2026-04-06" useViewDate=true title="倒数日功能发布" */>}}
+```
+
+即可显示成
+
+{{< countdown-day date="2026-04-06" useViewDate=true title="倒数日功能发布" >}}
