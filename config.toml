@@ -1,8 +1,9 @@
 baseURL = "https://farseash.github.io/demo-hugo-theme-moments/"
 languageCode = "zh-Hans"
 theme = "moments"
-paginate = 10
-paginatePath = '.'
+[pagination]
+    pagerSize = 10
+    path = '.'
 
 [markup]
     [markup.highlight]
@@ -27,4 +28,3 @@ paginatePath = '.'
 
     [params.experimental]
         comment = false
-

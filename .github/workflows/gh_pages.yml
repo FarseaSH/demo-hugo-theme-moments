@@ -14,11 +14,11 @@ jobs:
         steps:
             -   name: Checkout repo fileS
                 uses: actions/checkout@v4 
-            -   run: git clone --branch pre-release/v1.3 --depth 1 https://github.com/FarseaSH/hugo-theme-moments.git ./themes/moments
+            -   run: git clone --branch dev --depth 1 https://github.com/FarseaSH/hugo-theme-moments.git ./themes/moments
             -   name: Setup Hugo
                 uses: peaceiris/actions-hugo@v2
                 with:
-                    hugo-version: '0.85.0'
+                    hugo-version: '0.147.8+extended+withdeploy'
                     extended: true
             -   name: Build hugo public pages
                 run: hugo --minify
